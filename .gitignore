@@ -1,0 +1,25 @@
+# data, run outputs and saved models
+data/
+outputs/
+*.joblib
+*.pkl
+*.sav
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
